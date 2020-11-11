@@ -1,4 +1,4 @@
-# Telegraf powerShell script to collect windows CPU temperature via OpenHardwareMonitor
+# Telegraf PowerShell script to collect CPU temperature via OpenHardwareMonitor on Windows
 
 Require OpenHardwareMonitor installed and started.
 Use nssm to run OpenHardwareMonitor as windows service.
