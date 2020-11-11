@@ -1,0 +1,2 @@
+# telegraf_openhardwaremonitor_cpu_temp
+Telegraf collect windows CPU temperature via OpenHardwareMonitor
